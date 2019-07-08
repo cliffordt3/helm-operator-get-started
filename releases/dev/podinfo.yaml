@@ -14,7 +14,7 @@ spec:
     path: charts/podinfo
     ref: master
   values:
-    image: cliffordt3/podinfo:dev-km6yymya
+    image: cliffordt3/podinfo:dev-ht50cjug
     replicaCount: 1
     hpa:
       enabled: false
